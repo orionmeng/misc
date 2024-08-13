@@ -1,0 +1,15 @@
+ +-0-1-2-3-4-5-6-+
+0| S R * * * * * |
+1| * * R * R W * |
+2| R * * L N * R |
+3| * R * * * L * |
+4| N L L R * N N |
+5| N * W * * R * |
+6| * R * N N * N |
+ +---------------+
+S-start
+W-win
+L-lose
+R-random
+N-neutral
+?-other

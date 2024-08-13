@@ -1,0 +1,26 @@
+COORDS/NAME/TEXT/RESULT/NEARBY/
+7,7/size/This is the size of the map///
+0,0/start/Welcome! You have chosen to risk your life for some cake? Good luck! LOL!/start//
+6,6/nothing/Why are you here? Go find the cake!///
+4,6/warning/A trap! Be more careful next time!///
+5,0/warning/A trap! Be more careful next time!///
+2,4/armor/A piece of armor! It doesn't seem to do much, but at least you're less ugly now! ROFL!///
+4,0/armor/A piece of armor! It doesn't seem to do much, but at least you're less ugly now! LMAO!///
+4,5/armor/A piece of armor! It doesn't seem to do much, but at least you're less ugly now! HAHA!///
+6,3/rare/Wow! SUPER RARE ITEM! A stick? Very lucky!///
+6,4/fake/Congratulations! You found th- oh wait. It's not a real cake. LOL!//you smell something sweet/
+1,5/cake/Wow! You won! I can't believe it! Enjoy your chocolate cake!/win/you smell something sweet/
+5,2/cake/Wow! You won! I can't believe it! Enjoy your sponge cake!/win/you smell something sweet/
+3,5/poison/Congratulations! You found the cake of poison! Now you're dead! LOL!/lose/you smell something weird/
+4,1/poison/Congratulations! You found the cake of poison! Now you're dead! LOL!/lose/you smell something weird/
+2,3/monster/Watch out! That's a cake monst-/lose/you hear a growl/
+4,2/monster/Watch out! That's a cake monst-/lose/you hear a growl/
+0,1/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+1,2/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+1,4/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+2,0/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+2,6/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+3,1/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+4,3/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+5,5/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
+6,1/potion/A potion? Whoa... what happened?/randomMove/you feel a magical dizziness/
